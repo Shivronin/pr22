@@ -9,7 +9,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.pr22kolpackov"
+        applicationId "com.example.pr22"
         minSdk 30
         targetSdk 32
         versionCode 1
